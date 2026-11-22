@@ -1,0 +1,5 @@
+row,precision,recall,f1,support,accuracy,balanced_accuracy
+Healthy,0.9801,0.9801,0.9801,151,,
+Myopia,0.9452,0.9583,0.9517,72,,
+Retinitis_Pigmentosa,1.0,0.95,0.9744,20,,
+overall,0.9751,0.9628,0.9687,243,0.9712,0.9628
